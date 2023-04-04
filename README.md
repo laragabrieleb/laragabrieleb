@@ -1,6 +1,9 @@
 ### Olá, eu me chamo Lara Gabriele! 🌞
 
+Sou uma desenvolvedora focada em .NET e crio projetos com C#, Migrations, Entity framework, SQL Server, MySQL, Arquitetura MVC, HTML, CSS e Javascript.
+Atualmente cursando Análise e Desenvolvimento de Sistemas (EAD), e estudando também por conta própria através de documentações e fóruns.
 
+Além disso, procuro sempre estar desenvolvendo novos projetos e manter os conhecimentos alinhados com as tecnologias e práticas mais atuais no mercado.
 
 <div>
   <a href="https://github.com/laragabrieleb">
